@@ -1,0 +1,38 @@
+Diary---
+
+Profile
+--- Personal Details 
+---Profile Picture
+--Options to choose Charts example: Blood pressure avg charts, blood sugar avg
+
+
+
+Input Section
+--General Notes 
+-- Medical Notes
+---Blood pressure Notes
+---Blood Sugar Notes
+---Pregnancy Notes
+
+Display Section:
+ ---Genaral Notes display will be Table format
+    --Date and Description
+    ---Update button 
+    ---Delete button
+    ---Clear All
+ Medical Notes:
+       Blood pressure Section
+       ----Picture of Blood pressure charts 
+       ---Date  Systolic(upper pressure)   Diastolic(lower pressure)
+       ---Update Button 
+       ---Delete single item
+       ---Clear All
+
+       Diabetic Charts 
+       ---Picture of Diabetic
+       ---Date   Fasting Data   2hrs After Meal Data
+       ---Update Button 
+       ---Delete single item
+       ---Clear All
+
+       ---Pregnancy Notes
